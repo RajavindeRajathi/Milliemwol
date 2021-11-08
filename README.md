@@ -1,9 +1,8 @@
-<div align="center">
-<img 
-src="https://i.imgur.com/KujDlso.jpg" alt="img" width="220" height="30"/>
+</a>
 </p>
-        <img 
-src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14815980.gif" alt="GIF" width="220" height="190"/>
+<div align="center">
+  <p align="center">
+<img src="https://i.imgur.com/V0nSAWg.jpg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
 </p>
 
 </div>
