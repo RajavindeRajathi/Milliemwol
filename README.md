@@ -7,7 +7,7 @@
 
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/RajavindeRajathi/Nazukemwol">Nazukemol</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/RajavindeRajathi/Nazukemwol">Fazil</a>
     <br>
        | © |
         Reserved 
