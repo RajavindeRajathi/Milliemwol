@@ -9,7 +9,7 @@
 
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/RajavindeRajathi/Nazukemwol">Fazil</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/RajavindeRajathi/Nazuko">Fazil</a>
     <br>
        | © |
         Reserved 
@@ -25,7 +25,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RajavindeRajathi/Nazukemwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/RajavindeRajathi/Nazuko)
     
 - - -
 </p>
@@ -68,9 +68,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Raashii](https://github.com/Raashii.png?size=100)](https://github.com/Raashii) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![RajavindeRajathi](https://github.com/RajavindeRajathi.png?size=100)](https://github.com/RajavindeRajathi) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Raashii](https://github.com/Raashii)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
+[RajavindeRajathi](https://github.com/RajavindeRajathi)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
